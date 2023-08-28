@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/Deveripon/devripon-package/issues"
   },
-  "homepage": "https://github.com/Deveripon/devripon-package#readme",
-  "dependencies": {
-    "devripon-package": "^1.0.0"
-  }
+  "homepage": "https://github.com/Deveripon/devripon-package#readme"
 }
